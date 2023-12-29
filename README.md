@@ -1,4 +1,4 @@
-# Steam Achievement Manager [AF] v. 6.3
+# Steam Achievement Manager [AF] v. 3.3
 
 ![112](https://github.com/ZeaererAF/SteamAchievementManager-AF/assets/155149730/cb3cc12e-b11b-48c8-99a8-2b255ca2c9cb)
 
